@@ -11,15 +11,17 @@ td {
 }
 
 th {
-  color: #7a1f3d;
+  color: #0b45b0;
+  font-family: 'Bricolage Grotesque', sans-serif;
 }
 
 .level {
   display: inline-block;
+  font-family: 'Bricolage Grotesque', sans-serif;
   padding: 2px 10px;
   border-radius: 20px;
-  background: #f2e8ec;
-  color: #7a1f3d;
+  background: #0b45b0;
+  color: #ffffff;
   font-size: 0.85rem;
 }
 

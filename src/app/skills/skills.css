@@ -8,7 +8,7 @@ ul {
 
 .skill {
   width: 100%;
-  border: 1px solid #d8c3cb;
+  border: 1px solid #0000004b;
   border-radius: 6px;
   padding: 10px 14px;
   background: #ffffff;
@@ -16,12 +16,14 @@ ul {
   text-align: left;
   font-size: 1rem;
   cursor: pointer;
+  font-family: 'Bricolage Grotesque', sans-serif;
 }
 
 .skill:hover {
-  border-color: #7a1f3d;
-  background: #f8f1f4;
+  border-color: #0b45b0;
+  background: #d6e8ff;
 }
+
 
 @media (max-width: 600px) {
   ul {

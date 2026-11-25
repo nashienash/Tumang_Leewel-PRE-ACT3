@@ -5,15 +5,6 @@
   color: var(--ink);
   font-family: 'Archivo', Arial, Helvetica, sans-serif;
   line-height: 1.6;
-  background: var(--paper);
-  border-radius: 6px;
-  box-shadow: 0 30px 60px -20px rgba(0, 0, 0, 0.55);
-
-  display: grid;
-  grid-template-columns: minmax(0, 1.65fr) minmax(0, 1fr);
-  column-gap: 44px;
-  row-gap: 34px;
-  align-items: start;
 }
 
 .resume .intro {
